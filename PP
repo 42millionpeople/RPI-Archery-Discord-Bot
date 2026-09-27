@@ -1,0 +1,1 @@
+This bot automatically creates a Discord poll on Mon/Wed/Fri at 10a EST to check for practice availability the next day. Otherwise does nothing else.
